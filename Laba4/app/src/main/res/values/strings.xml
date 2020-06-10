@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile_lab4</string>
+    <string name="main_video">Play video</string>
+    <string name="main_music">Play music</string>
+    <string name="player_stop">Stop</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+</resources>
